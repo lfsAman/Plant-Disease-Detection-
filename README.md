@@ -7,7 +7,7 @@
 <code><img height=40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 </div>
 <h1>CROPWATCH</h1>
-<h3>Model developer Web Dev work  by -- Aman Khan</h3>
+<h3>Model Developer && Web Dev work  by -- Aman Khan</h3>
 <br>
 <p>CropWatch is a Crop Disease detection and Cure suggestion system. It also provides details about the symptoms and the description of the particular disease and also will provide treatment of the disease.</p>  
 <hr>
